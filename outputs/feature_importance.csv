@@ -1,0 +1,26 @@
+feature,importance
+promotion_clicks_90d,0.276207982904561
+recency_days,0.2195774731438412
+email_open_rate_clean,0.21797710317460015
+prior_offer_redemptions_180d,0.20677843993190698
+loyalty_tier_rank,0.19322853337706547
+spend_180d_clean,0.17115485205544317
+loyalty_tier_Bronze,0.13747042022040742
+engaged_marketing_flag,0.08104358445769708
+home_market_North America,0.06393043192008904
+service_cases_180d,0.06278907746598657
+loyalty_tier_Silver,0.06069910226890919
+preferred_channel_WhatsApp,0.0583473688268821
+active_guest_flag,0.05175043239640795
+preferred_channel_App Push,0.04906190720807321
+preferred_channel_Email,0.047045825041130244
+dining_visits_90d,0.04538036492888834
+visits_90d,0.04330801544786352
+home_market_UK/EU,0.04077565215723225
+avg_spend_per_visit_clean,0.039187458467650677
+visits_180d_capped,0.036682547058418315
+home_market_Other,0.031089548567932904
+home_market_India,0.029228491739418785
+loyalty_tier_Gold,0.02426862684220227
+hotel_nights_180d,0.021026926934065382
+reactivation_flag,0.016034379089054415

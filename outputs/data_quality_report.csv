@@ -1,0 +1,10 @@
+check_name,value,action_taken
+raw_row_count,20040,information
+unique_customers,20000,information
+duplicate_customer_rows,40,review
+missing_email_open_rate,300,impute_with_median
+negative_total_spend_180d,81,set_to_null_then_impute
+extreme_visits_180d_over_75,60,cap_at_75
+feature_row_count_after_dedup,20000,information
+missing_spend_after_sql_cleaning,80,model_pipeline_imputes
+missing_email_after_sql_cleaning,300,model_pipeline_imputes

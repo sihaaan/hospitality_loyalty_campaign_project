@@ -1,0 +1,5 @@
+offer_type,control_response_rate,treatment_response_rate,incremental_response_rate,control_customers,treatment_customers,control_revenue_aed,treatment_revenue_aed,estimated_incremental_responses,notes
+Standard loyalty offer,0.5951,0.6491,0.054,699,1764,190640.23,532720.79,95,Synthetic test setup; replace with actual campaign/control outcomes after launch.
+Reactivation dining offer,0.374,0.4268,0.0528,246,635,35000.98,96740.89,34,Synthetic test setup; replace with actual campaign/control outcomes after launch.
+Premium stay/dining bundle,0.7357,0.7791,0.0434,1029,2508,542942.6,1397810.16,109,Synthetic test setup; replace with actual campaign/control outcomes after launch.
+Low-cost reminder offer,0.5038,0.5047,0.0009,1729,3943,357616.79,828681.56,4,Synthetic test setup; replace with actual campaign/control outcomes after launch.

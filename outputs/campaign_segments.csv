@@ -1,0 +1,7 @@
+campaign_segment,customers,avg_score,historical_response_rate,avg_spend_180d,qa_ready_rate
+High Propensity - High Value,3537,0.7326,0.5327,5490.68,1.0
+High Propensity - Standard Value,2463,0.6129,0.3987,3592.35,1.0
+Mid Propensity - Test Offer,5672,0.4853,0.2805,3148.33,1.0
+Reactivation Test Cell,881,0.3819,0.1998,2648.83,1.0
+Low Priority - Suppress,43,0.3155,0.1395,1959.2,1.0
+Low Propensity - Holdout Candidate,7404,0.3072,0.1552,2239.86,1.0

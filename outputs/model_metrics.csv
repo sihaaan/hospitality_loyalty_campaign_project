@@ -1,0 +1,3 @@
+model,roc_auc,accuracy,precision,recall,f1,baseline_response_rate
+Logistic Regression,0.689,0.648,0.4245,0.6082,0.5,0.2894
+Random Forest,0.6797,0.6552,0.4282,0.5708,0.4893,0.2894
