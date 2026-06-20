@@ -1,9 +1,9 @@
 """
 Hospitality Loyalty Campaign Propensity & Segmentation Analytics
 
-GitHub-ready portfolio project for database marketing / CRM campaign analytics roles.
-It uses synthetic resort loyalty data to show data preparation, QA, feature engineering,
-propensity modeling, decile scoring, segmentation, A/B test setup, and dashboard-ready outputs.
+End-to-end hospitality campaign analytics workflow using synthetic resort loyalty data.
+The pipeline covers data preparation, QA, feature engineering, propensity modeling,
+decile scoring, segmentation, A/B test setup, and dashboard-ready outputs.
 
 Run from the project root:
     python src/build_project.py

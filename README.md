@@ -1,9 +1,13 @@
 # Hospitality Loyalty Campaign Propensity & Segmentation Analytics
 
-This is a GitHub-ready portfolio project built for database marketing, CRM analytics, and campaign data science roles.
-It uses a synthetic resort loyalty dataset to demonstrate the work a marketing analytics data scientist would do before campaign launch and during performance review.
+This project analyzes synthetic resort loyalty data to support targeted hospitality campaign planning.
+The workflow turns raw loyalty and transaction-style customer records into a clean feature table, propensity scores, audience segments, A/B test cells, and dashboard-ready reporting outputs.
 
-## What the project shows
+## Project objective
+
+Identify which loyalty customers are most likely to respond to a hospitality campaign, prioritize audiences by predicted response and customer value, and prepare measurement-ready campaign files for launch and post-campaign analysis.
+
+## Approach
 
 - Data cleaning and validation checks for campaign datasets
 - SQL feature engineering for recency, frequency, spend, engagement, and offer-fatigue variables
@@ -13,6 +17,14 @@ It uses a synthetic resort loyalty dataset to demonstrate the work a marketing a
 - A/B test setup and offer calibration summary
 - Dashboard-ready CSV outputs and simple charts
 - Reproducible folder structure and documented assumptions
+
+## Workflow
+
+1. Build a clean customer feature table from raw loyalty and transaction-style data.
+2. Validate missing values, duplicates, negative spend, and extreme values before modeling.
+3. Train and compare propensity models, then select the stronger validation performer.
+4. Convert model scores into deciles, campaign segments, channel recommendations, and reporting tables.
+5. Set up treatment/control measurement outputs so campaign performance can be reviewed after launch.
 
 ## Folder structure
 
@@ -52,16 +64,6 @@ The script creates all data, features, model outputs, campaign files, and charts
 - `outputs/data_quality_report.csv`: duplicate, missing value, negative spend, and outlier checks
 - `outputs/feature_importance.csv`: top model drivers
 - `outputs/charts/`: PNG charts for reporting or Power BI storyboarding
-
-## Resume talking points
-
-Use this project to explain how you would support campaign targeting:
-
-1. Build a clean customer feature table from raw loyalty/transaction data.
-2. Validate missing values, duplicates, negative spend, and extreme values before modeling.
-3. Train and compare models, then choose the model with stronger validation performance.
-4. Convert model output into deciles, campaign segments, and dashboard-ready reporting tables.
-5. Set up a control/treatment framework so campaign performance can be measured properly after launch.
 
 ## Important note
 
